@@ -1,0 +1,8 @@
+# Ignorar archivos generados por Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Ignorar archivos de sistema
+*.exe
