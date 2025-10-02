@@ -28,7 +28,7 @@ Automatizar el respaldo de un volumen EBS (Disco de un servidor EC2) a Amazon S3
 | cloudwatch-alarma-config.md | Documentación paso a paso de la configuración de la alarma. |
 -----
 ---
-# **Práctica 2: Despliegue de Servidor Web con Terraform (Infraestructura como Código - IaC)**
+# **Práctica 4: Despliegue de Servidor Web con Terraform (Infraestructura como Código - IaC)**
 
 ## **Objetivo de la Práctica**
 El objetivo principal fue migrar la infraestructura creada manualmente en la Práctica 1 a un modelo de Infraestructura como Código (IaC) utilizando Terraform. Esto demuestra la capacidad para automatizar, versionar y replicar la infraestructura de forma segura y eficiente.
