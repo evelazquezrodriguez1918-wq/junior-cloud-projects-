@@ -1,4 +1,4 @@
-# **PRACTICA 1. AWS Despliegue de Servidor Web EC2 y Segurdad básica**
+# **PRACTICA 2. AWS Despliegue de Servidor Web EC2 y Segurdad básica**
 ---
 ## **Objetivo**
 Deplegar una máquina virtual (Instancia EC2) Con un servidor web simple (Como Apache o Nginx) y asegurar que solo se pueda acceder a él a través del puerto HTTP (80) desde internet 
