@@ -1,4 +1,4 @@
-# 09 - Práctica 10: Rendimiento y Contenedores (ECR)
+# 10 - Práctica 10: Rendimiento y Contenedores (ECR)
 
 ## 🎯 Objetivo de la Práctica (Enfoque SysOps: Rendimiento y Seguridad)
 
