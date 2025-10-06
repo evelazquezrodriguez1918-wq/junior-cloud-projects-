@@ -1,4 +1,4 @@
-# 08 - Práctica 9: Seguridad IAM y Mínimo Privilegio
+# 09 - Práctica 9: Seguridad IAM y Mínimo Privilegio
 
 ## 🎯 Objetivo de la Práctica (Enfoque SysOps: Seguridad)
 
